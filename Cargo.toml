@@ -33,3 +33,4 @@ version = "1"
 [features]
 default = ["std"]
 std = []
+mesalock_sgx = ["sgx_tstd"]
